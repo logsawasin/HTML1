@@ -79,11 +79,28 @@
   margin: 15px 0 5px 0;
 }
 
+.step2-text {
+  margin: 15px 0 5px 0;
+}
+
+.step3-text {
+  margin: 15px 0 5px 0;
+}
+
 .step1-content {
   margin: 0 10px 10px 10px;
   font-size: 12px;
 }
 
+.step2-content {
+  margin: 0 10px 10px 10px;
+  font-size: 12px;
+}
+
+.step3-content {
+  margin : 0 10px 10px 10px;
+  font-size: 12px;
+}
 
 .bottom {
   background-color: #aaaaaa;
